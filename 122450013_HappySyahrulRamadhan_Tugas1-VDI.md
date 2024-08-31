@@ -2,7 +2,7 @@
 
 Nama            : Happy Syahrul Ramadhan </br>
 NIM             : 122450013 </br>
-Dosen Pengampu  : Ahmad Luky Ramdani S.Komp., M.Kom
+Dosen Pengampu  : Ahmad Luky Ramdani S.Kom., M.Kom
 <br/>
 <br/>
 
