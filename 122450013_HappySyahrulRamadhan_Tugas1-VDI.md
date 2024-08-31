@@ -13,7 +13,7 @@ Mengubah data abstrak menjadi representasi visual seperti bentuk, dan warna meru
 
 ## Alur dalam melakukan visualisasi data 
 
-<img src="https://raw.githubusercontent.com/Happy-Syahrul-Ramadhan/image/main/Screenshot%20from%202024-08-31%2015-02-22.png?token=GHSAT0AAAAAACWKQZK5SAYFUOEGYCSXECQ2ZWS66QA" width="70%">                   
+<img src="https://private-user-images.githubusercontent.com/70791897/363409859-84325e00-7190-4805-922d-12cea5a52018.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUxMDM0OTUsIm5iZiI6MTcyNTEwMzE5NSwicGF0aCI6Ii83MDc5MTg5Ny8zNjM0MDk4NTktODQzMjVlMDAtNzE5MC00ODA1LTkyMmQtMTJjZWE1YTUyMDE4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODMxVDExMTk1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiYzIxMGMwNzQzNGE5YTNhMzc0ZDMxNDdmMmU5MDY4YWYwNjFjMjQxN2EyNzYwYzEyY2UxMDg1OTQ1Y2VkZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yFtpLDv1DT_eRasopjux6eCiIikxLMEhQ7JqtwdH8h8" width="70%">                   
 <br/>
 <br/>
 
@@ -57,7 +57,7 @@ Secara umum, bahasa visualisasi data terdiri dari tiga bagian: data, tanda (atau
 </ul>
 
 ## Kategorisasi visualisasi data
-<img src="https://raw.githubusercontent.com/Happy-Syahrul-Ramadhan/image/main/Screenshot%20from%202024-08-31%2016-15-43.png?token=GHSAT0AAAAAACWKQZK4KL6RXTTT2KDQAD64ZWS7AHQ" width="70%">                   
+<img src="https://private-user-images.githubusercontent.com/70791897/363409807-6de9cd98-cb56-4eb0-bf06-9c7d7b0f61f0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUxMDM0NTcsIm5iZiI6MTcyNTEwMzE1NywicGF0aCI6Ii83MDc5MTg5Ny8zNjM0MDk4MDctNmRlOWNkOTgtY2I1Ni00ZWIwLWJmMDYtOWM3ZDdiMGY2MWYwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODMxVDExMTkxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0NGExYzk0OTA4ZDQ0NGIxNmI2YzlkZWZkZDcxOTY2MzQyMjRmMjk1MWIyMGE4ZTFjNTY1MjBjZjFlNDg4ODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9OUAkd2027GKQ5yA-ge7IMyVdF720GwKUXvfQV3DJ3E" width="70%">                   
 
 Bahasa visualisasi dapat diklasifikasikan berdasarkan tingkat ekspresifitasnya. Bahasa tingkat rendah memungkinkan pengguna untuk memiliki kendali penuh atas setiap elemen visualisasi, memberikan fleksibilitas maksimum namun membutuhkan lebih banyak usaha. Sebaliknya, bahasa tingkat tinggi menyederhanakan proses dengan memberikan default yang masuk akal dan mengurangi tingkat detail yang harus ditentukan oleh pengguna. Ada juga alat berbasis GUI yang lebih ramah pengguna dan memungkinkan spesifikasi visualisasi melalui manipulasi langsung, serta bahasa yang lebih fleksibel yang mendukung spesifikasi visualisasi yang tidak lengkap.
 
