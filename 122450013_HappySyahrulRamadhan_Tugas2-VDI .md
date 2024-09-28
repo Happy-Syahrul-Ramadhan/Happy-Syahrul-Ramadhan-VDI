@@ -14,7 +14,7 @@ Dosen Pengampu  : Ahmad Luky Ramdani S.Kom., M.Kom
 <br/>
 <br/>
 
-### Visualisasi di atas dapat dikategorikan sebagai "good visualization" berdasarkan empat prinsip berikut:
+### Visualisasi di atas dapat dikategorikan sebagai "Good Visualization" berdasarkan empat prinsip berikut:
 
 <ol>
     <li><b>Mengutamakan Bentuk dan Fungsi (Strive for Forms and Functions)</b> <br/> 
@@ -40,7 +40,7 @@ Dosen Pengampu  : Ahmad Luky Ramdani S.Kom., M.Kom
 <br/>
 <br/>
 
-### Visualisasi di atas dapat dikategorikan sebagai "good visualization" berdasarkan empat prinsip berikut:
+### Visualisasi di atas dapat dikategorikan sebagai "Good Visualization" berdasarkan empat prinsip berikut:
 
 <ol>
     <li><b>Mengutamakan Bentuk dan Fungsi (Strive for Forms and Functions)</b> <br/> 
@@ -65,7 +65,7 @@ Dosen Pengampu  : Ahmad Luky Ramdani S.Kom., M.Kom
 <br/>
 <br/>
 
-### Visualisasi di atas dapat dikategorikan sebagai "good visualization" berdasarkan empat prinsip berikut:
+### Visualisasi di atas dapat dikategorikan sebagai "Bad Visualization" berdasarkan empat prinsip berikut:
 
 <ol>
     <li><b>Mengutamakan Bentuk dan Fungsi (Strive for Forms and Functions)</b> <br/> 
@@ -83,7 +83,7 @@ Dosen Pengampu  : Ahmad Luky Ramdani S.Kom., M.Kom
 <br/>
 <br/>
 
-### Visualisasi di atas dapat dikategorikan sebagai "good visualization" berdasarkan empat prinsip berikut:
+### Visualisasi di atas dapat dikategorikan sebagai "Bad Visualization" berdasarkan empat prinsip berikut:
 
 <ol>
     <li><b>Mengutamakan Bentuk dan Fungsi (Strive for Forms and Functions)</b> <br/> 
