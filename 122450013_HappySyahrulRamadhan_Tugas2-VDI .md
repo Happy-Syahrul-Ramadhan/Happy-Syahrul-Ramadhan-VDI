@@ -37,7 +37,8 @@ Dosen Pengampu  : Ahmad Luky Ramdani S.Kom., M.Kom
 
 ## Contoh 2
 
-<img src="https://private-user-images.githubusercontent.com/70791897/371779569-ef8fe569-d6cf-45da-a2d0-e7be23aa7608.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc1NDQ0MDYsIm5iZiI6MTcyNzU0NDEwNiwicGF0aCI6Ii83MDc5MTg5Ny8zNzE3Nzk1NjktZWY4ZmU1NjktZDZjZi00NWRhLWEyZDAtZTdiZTIzYWE3NjA4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI4VDE3MjE0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjNzk5ZTVjNGIyODEyMDA5OGFiZDg4Zjg5M2UwMDZjMDM0M2VjZjk4OTgzOTQ3ODA4NTZhODQ0YzBkYTlhNzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DSnSEJu2sgQjFUy19IBTm8Er2vJNr8acbQP1zedVFU4" width="70%">                   
+![Statista-Amazon-Visualization-v2](https://github.com/user-attachments/assets/4a5a5062-2053-4b8a-b084-4445656a3a99)
+            
 <br/>
 <br/>
 
@@ -62,7 +63,8 @@ Dosen Pengampu  : Ahmad Luky Ramdani S.Kom., M.Kom
 
 ## Contoh 1
 
-<img src="https://private-user-images.githubusercontent.com/70791897/371780191-5b200956-3cd1-4a38-ba3f-d24284e1e410.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc1NDUwNDMsIm5iZiI6MTcyNzU0NDc0MywicGF0aCI6Ii83MDc5MTg5Ny8zNzE3ODAxOTEtNWIyMDA5NTYtM2NkMS00YTM4LWJhM2YtZDI0Mjg0ZTFlNDEwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI4VDE3MzIyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0MmNlMjgzNTZjY2YyNjJkNjZmZmM3MjNmY2M5M2VhMzVhNjQ2NGQzMzlmZDBkNDk5NDFkMmNkNTgzZTBhMzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uoOIkLvLj6XaV4Tl7prd1_KlNuUhs5vKIHmrmFDoQ4U" width="70%">                   
+![Messy-Pie-Chart-1024x712](https://github.com/user-attachments/assets/858050c4-0df0-44b6-bd52-a06dc40e1f92)
+                 
 <br/>
 <br/>
 
@@ -80,7 +82,8 @@ Dosen Pengampu  : Ahmad Luky Ramdani S.Kom., M.Kom
 
 ## Contoh 2
 
-<img src="https://private-user-images.githubusercontent.com/70791897/371781004-9443a176-c9e7-4a5a-bafa-5bec9c69256a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc1NDU5NjUsIm5iZiI6MTcyNzU0NTY2NSwicGF0aCI6Ii83MDc5MTg5Ny8zNzE3ODEwMDQtOTQ0M2ExNzYtYzllNy00YTVhLWJhZmEtNWJlYzljNjkyNTZhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI4VDE3NDc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY2ODJlMDA2OTIxZDJhOWJhNzAyNjhhNjUwOGI0MjgxMGRiMDFhNmJiZjc2YjI4ZTZjNTcyMWQyMjViYWJkYzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MaevtrhbWYqXjTm3Qkb5VHNdQaGHhfXpF3gqk9clN5M" width="70%">                   
+![3D-Chart-1024x803](https://github.com/user-attachments/assets/211136fd-5be9-46d7-b19a-b29f7de998ce)
+              
 <br/>
 <br/>
 
